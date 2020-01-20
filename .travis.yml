@@ -1,0 +1,5 @@
+language: python
+env:
+  - DJANGO="227"
+python:
+  - "3.7"

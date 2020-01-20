@@ -3,7 +3,8 @@ A blog system build with `Python 3.7.3` and `Django 2.2.7`
 
 [![license](https://img.shields.io/github/license/liangliangyy/djangoblog.svg)]()  
 
-# Main Features:
+# Main Features
+
 - Recent Articles, Archives, Categories, Tags. Articles support `Markdown` language.
 - Comment feature. Users can comment to each article with user name and email.
 - Generate excerpt automately. Extract the first 54 characters of each article as its excerpt.
@@ -12,7 +13,7 @@ A blog system build with `Python 3.7.3` and `Django 2.2.7`
 
 This project is still in building status. I will add more features to this project in the future!
 
-# Other features includes:
+# Other features
 
 - Search engine
 - Sign in 

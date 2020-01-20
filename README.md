@@ -1,7 +1,6 @@
 # Django-Blog
-A blog system build with `Python 3.7.3` and `Django 2.2.7`
 
-[![license](https://img.shields.io/github/license/liangliangyy/djangoblog.svg)]()  
+A blog system build with `Python 3.7.3` and `Django 2.2.7`
 
 # Main Features
 
@@ -41,11 +40,11 @@ For present, this blog system can only be run in local environment.
 
 **Article Page**
 
-![ArticlePage](https://res.cloudinary.com/dq4ytg1fv/image/upload/v1579544105/ArticlePage_uwjn6f.png)
+![ArticlePage](https://res.cloudinary.com/dq4ytg1fv/image/upload/v1579544847/ArticlePage_hluvsv.png)
 
 **Markdown and TOC Support**
 
-![MarkdownSupport](https://res.cloudinary.com/dq4ytg1fv/image/upload/v1579544105/MarkdownSupport_c3vwag.png)
+![MarkdownSupport](https://res.cloudinary.com/dq4ytg1fv/image/upload/v1579544847/MarkdownSupport_kawqyd.png)
 
 # Special Thanks
 

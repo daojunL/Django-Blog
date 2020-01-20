@@ -48,4 +48,4 @@ For present, this blog system can only be run in local environment.
 
 # Special Thanks
 
-Thanks to the free Django tutorial posted by yangxg. Here is [Link](https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial) of the tutorial. 
+Thanks to the free Django tutorial posted by yangxg. Here is a [Link](https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial) of the tutorial. 

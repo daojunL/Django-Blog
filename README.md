@@ -32,7 +32,7 @@ We use `SQLite3` as the database system which is embeded in the Django framework
 
 # Sample GUI Screenshots 
 
-For present, this blog system can only be run in local environment. 
+At present, this blog system can only be run in local environment. 
 
 **The Homepage**
 

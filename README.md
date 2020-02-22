@@ -6,7 +6,7 @@ A blog system build with `Python 3.7.3` and `Django 2.2.7`.
 
 - Recent Articles, Archives, Categories, Tags. Articles support `Markdown` language.
 - Comment feature. Users can comment on each article with user name and email.
-- Generate excerpt automately. Extract the first 54 characters of each article as its excerpt.
+- Generate excerpt automatically. Extract the first 54 characters of each article as its excerpt.
 - Generate table of contents automately for articles.
 - Sidebar features: tags, categories etc.
 
